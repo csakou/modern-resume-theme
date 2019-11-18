@@ -14,7 +14,7 @@ address:
 email: c.sakoumpentas@protonmail.com
 gmail: sakoumpentas@gmail.com
 phone: "+30 694 144 3074"
-homepage: csakou.github.io/pw
+# homepage: csakou.github.io/pw
 resume: csakou.github.io/resume
 
 # Social links
@@ -47,8 +47,8 @@ experience:
   city: 'Corfu'
   quite: >
   description: |
-  As a check-in agent my responsibilites included passport check and identification, accepting payments for certain
-  flight services, greeting the passengers and informing them of the procedures required to board their flight.
+   As a check-in agent my responsibilites included passport check and identification, accepting payments for certain
+   flight services, greeting the passengers and informing them of the procedures required to board their flight.
 
 - employer: 'Oblix'
   link: https://www.oblixrestaurant.com
@@ -97,6 +97,8 @@ languages:
 skills:
 - Desire to Learn, Adapting Easilly, Team Working
 - Hard working, Managing Projects
+
+# programming_skills:
 
 interests:
 - Automata Theory, Machine Learning, Artificial Intelligence

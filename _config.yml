@@ -35,13 +35,14 @@ googleplus_username:
 about_profile_image: https://github.com/csakou/pw/blob/master/img/20190218_105918.jpg?raw=true
 intro: | # this will include new lines to allow paragraphs
  I am studying informatics at the [Ionian University](http://di.ionio.gr).
- My interests so far lie in the 
+ My interests so far lie in the area of Machine Learning and Artificial Intelligence as well as Robotics, Programming
+ and Software Engineering.
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 experience:
 - employer: 'Swissport'
-  link: 
+  link: https://swissport.com/
   job: Airport Check-In Agent
   years: 'July2019 - October 2019'
   city: 'Corfu'
@@ -71,12 +72,6 @@ education:
   city: Corfu
   quote: >
   description: |
-    I am studying Informatics to aquire a B.S. degree and learn all the core concepts about how Databases, Operating Systems,
-    Computer Networks and Computer Programming works. We are also being taught about the importance of Teamwork, working with 
-    tight Deadlines and Managing Projects.
-
-    The course also tought me about how computer graphics work, what is and how to use information retrieval techniques,
-    machine learning and pattern recognition and lastly about virtual worlds and entertainment software.
 
 languages:
     - language: Greek

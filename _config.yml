@@ -21,7 +21,7 @@ resume: csakou.github.io/resume
 twitter_username:
 github_username: csakou
 dribbble_username:
-facebook_username: Febarios.Celsios
+facebook_username:
 flickr_username:
 instagram_username:
 linkedin_username: christos-sakoumpentas-2b9b96172
@@ -34,21 +34,28 @@ googleplus_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://github.com/csakou/pw/blob/master/img/20190218_105918.jpg?raw=true
 intro: | # this will include new lines to allow paragraphs
- I am studying informatics at the [Ionian University](http://di.ionio.gr). 
- I am aspiring to learn as much as possible about what Computations are, the Processing of Information, 
- and to become an expert Programmer. All in all i strive so that at the time this experience is over, 
- i will know deeply about information theory, networks and every other interesting aspect of computers.
+ I am studying informatics at the [Ionian University](http://di.ionio.gr).
+ My interests so far lie in the 
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 experience:
+- employer: 'Swissport'
+  link: 
+  job: Airport Check-In Agent
+  years: 'July2019 - October 2019'
+  city: 'Corfu'
+  quite: >
+  description: |
+  As a check-in agent my responsibilites included passport check and identification, accepting payments for certain
+  flight services, greeting the passengers and informing them of the procedures required to board their flight.
+
 - employer: 'Oblix'
   link: https://www.oblixrestaurant.com
   job: Commis Waiter       
   years: 'July 2017 - October 2017'
   city: 'London'           
   quote: >
-   Oblix is a sophisticated restaurant with an incredible view as it is housed in The Shard, the tallest building in London.
   description: | # this will include new lines to allow paragraphs
    As a commis waiter i had the responsibility of serving food to the tables, cleaning and setting them up,
    taking care of the tables and making sure everyone had a pleasant time. Other responsibilities included taking orders,
@@ -76,21 +83,24 @@ languages:
       proficiency: Native Fluency
       quote: >
       description: |
-          I was born in Greece and have lived here for the biggest part of my life so it is only natural that i speak Greek fluently.
+      
     - language: English
       proficiency: Edexcel Lower Certificate
       quote: >
       description: |
-         I have pass the Edexcel exam to acquire a Lower Certificate. However i will soon take the IELTS test to acquire a
-         proficiency level Certificate in English.
+     
+    - language: French
+      proficiency: Basic Communication
+      quote: >
+      description: |
 
 skills:
-- Teamwork, Desire to learn, Adapt easilly
-- Hard working, Social, Project Management
+- Desire to Learn, Adapting Easilly, Team Working
+- Hard working, Managing Projects
 
 interests:
-- Computer Networks, Automata Theory, Algorithms and Algorithm Complexity
-- Machine Learning, Data Management, Distributed Systems
+- Automata Theory, Machine Learning, Artificial Intelligence
+- Discrete Mathematics, Programming, Software Engineering
 
 # Footer
 footer_show_references: true
